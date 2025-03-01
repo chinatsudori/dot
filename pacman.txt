@@ -9,7 +9,6 @@ adw-gtk-theme
 adwaita-icon-theme
 aerc
 ags-hyprpanel-git
-alacritty
 alsa-firmware
 alsa-plugins
 alsa-utils
@@ -43,7 +42,6 @@ bluez-utils
 bob
 bottles
 bottom
-brave-beta-bin
 brightnessctl
 btop
 btrfs-assistant
@@ -57,12 +55,10 @@ cava
 cbonsai
 chafa
 chkservice
-circumflex-bin
 clang
 cliphist
 clipman
 cmatrix
-cool-retro-term
 cowfortune
 cowsay
 cryptsetup
@@ -96,7 +92,6 @@ easyeffects
 efibootmgr
 efitools
 egl-wayland
-element-desktop
 eog
 erdtree
 esptool
@@ -134,6 +129,8 @@ fuseiso
 fwupd
 fzy
 gammastep
+gamemode
+gamescope
 gawk
 gcc
 gdm
@@ -147,6 +144,7 @@ git-delta
 github-cli
 gitui
 glances
+globalprotect-openconnect
 glow
 gnome-backgrounds
 gnome-boxes
@@ -245,6 +243,7 @@ kitty
 lazydocker
 lazygit
 ledger
+legcord
 less
 lib32-gnutls
 lib32-libogg
@@ -363,6 +362,7 @@ pipewire-pulse
 pipewire-support
 pkgconf
 pkgfile
+piavpn-bin
 playerctl
 plocate
 plymouth-theme-arch-glow
@@ -401,10 +401,6 @@ rclone
 rebuild-detector
 reflector
 reiserfsprogs
-retroarch
-retroarch-assets-glui
-retroarch-assets-ozone
-retroarch-assets-xmb
 ripgrep
 rizin
 rofi-wayland
@@ -419,18 +415,21 @@ rz-cutter
 s-nail
 s-tui
 safeeyes
+satty
 scrounge-ntfs
 seahorse
 sed
 sg3_utils
 shell-color-scripts-git
 skim
+slack-desktop
 slurp
 smartmontools
 snap-pac
 snapper
 sof-firmware
 speech-dispatcher
+spicetify-cli
 splix
 spotify-launcher
 sqlfluff
@@ -453,7 +452,9 @@ testdisk
 texinfo
 texlive-binextra
 thermald
+thorium-bin
 throttled
+thunderbird
 tig
 tio
 tmux
@@ -486,11 +487,9 @@ upower
 usb_modeswitch
 usbutils
 uv
-vesktop-bin
 vim
 virt-manager
 virt-viewer
-visual-studio-code-bin
 viu
 vlc
 watchexec
